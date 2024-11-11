@@ -1,104 +1,38 @@
-# 🌟 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Uvesh Multani</h1>
+<h3 align="center">A passionate Full Stack developer from India and DevOps Engineer with a passion for building scalable applications and automating infrastructure. I specialize in building and deploying web applications, with a strong focus on both frontend and backend technologies. I'm also passionate about streamlining development pipelines, leveraging DevOps best practices, and ensuring high availability and performance in production environments. Tech Stack: Frontend: React, Angular, Vue.js Backend: Node.js, Django, Spring Boot DevOps: Docker, Kubernetes, AWS, CI/CD pipelines Database: PostgreSQL, MongoDB, MySQL</h3>
 
-Welcome to my **GitHub**! I'm **[Your Name]**, a passionate **Software Developer** from **[Your Location]**. I specialize in **[Your Tech Stack]**, and I am always excited to contribute to interesting projects and collaborate with like-minded developers.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvesh-multani&label=Profile%20views&color=0e75b6&style=flat" alt="uvesh-multani" /> </p>
 
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=social)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uvesh-multani" alt="uvesh-multani" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/ooveemultani" target="blank"><img src="https://img.shields.io/twitter/follow/ooveemultani?logo=twitter&style=for-the-badge" alt="ooveemultani" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **Nagrik**
 
-I'm a **Software Developer** with a focus on **[Your Focus Area]**. My goal is to create **scalable, efficient**, and **elegant solutions**. Here's a bit more about me:
+- 🌱 I’m currently learning **Devops**
 
-- 🌍 **Location**: [Your Location]
-- 💻 **Current Work**: [Your Current Project / Job]
-- 🌱 **Currently Learning**: [New Tech / Framework]
-- 🔧 **Tech Stack**:  
-  - **Languages**: Python, JavaScript, TypeScript  
-  - **Frameworks**: React, Django, Node.js  
-  - **Tools**: Docker, AWS, Kubernetes
+- 👨‍💻 All of my projects are available at [https://github.com/Uvesh-Multani](https://github.com/Uvesh-Multani)
 
----
+- 📝 I regularly write articles on [https://uveshmultani.vercel.app/blog](https://uveshmultani.vercel.app/blog)
 
-## 🛠️ Technologies & Tools
+- 💬 Ask me about **react,next.js**
 
-Here are the tools I love to work with:
+- 📫 How to reach me **cypronium2004@gmail.com**
 
-![Tech Icons](https://img.shields.io/badge/Tech%20Stack-Python-blue)  
-![Tech Icons](https://img.shields.io/badge/Tech%20Stack-React-blue)  
-![Tech Icons](https://img.shields.io/badge/Tech%20Stack-Docker-blue)  
-![Tech Icons](https://img.shields.io/badge/Tech%20Stack-AWS-blue)
+- 📄 Know about my experiences [https://uveshmultani.vercel.app](https://uveshmultani.vercel.app)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ooveemultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ooveemultani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uveshmultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uveshmultani" height="30" width="40" /></a>
+<a href="https://instagram.com/ooveemultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ooveemultani" height="30" width="40" /></a>
+</p>
 
-## 📂 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Here are some of my favorite repositories:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvesh-multani&show_icons=true&locale=en&layout=compact" alt="uvesh-multani" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvesh-multani&show_icons=true&locale=en" alt="uvesh-multani" /></p>
 
-### **[Project 1: My Portfolio](https://github.com/yourusername/project1)**  
-![Project 1](https://via.placeholder.com/500x300.png?text=Project+1)  
-**Description**: This is my personal portfolio built using **React** and **Node.js**. It showcases my work and achievements.  
-**Tech Stack**: React, Node.js, MongoDB  
-[Visit the Repo](https://github.com/yourusername/project1)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/project1?style=social)
-
----
-
-### **[Project 2: Chat App](https://github.com/yourusername/project2)**  
-![Project 2](https://via.placeholder.com/500x300.png?text=Project+2)  
-**Description**: A real-time chat application built with **Socket.IO** and **Express**. It allows users to chat instantly.  
-**Tech Stack**: Node.js, Socket.IO, Express  
-[Visit the Repo](https://github.com/yourusername/project2)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/project2?style=social)
-
----
-
-### **[Project 3: AI Chatbot](https://github.com/yourusername/project3)**  
-![Project 3](https://via.placeholder.com/500x300.png?text=Project+3)  
-**Description**: A chatbot built with **Python** and **TensorFlow**. It uses natural language processing (NLP) for intelligent responses.  
-**Tech Stack**: Python, TensorFlow, NLP  
-[Visit the Repo](https://github.com/yourusername/project3)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/project3?style=social)
-
----
-
-## 📈 GitHub Stats
-
-Here’s a quick look at my GitHub activity:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark)
-
----
-
-## 🤝 Let’s Connect!
-
-I love connecting with developers and tech enthusiasts! Here are some ways to reach out:
-
-- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 🌐 **Portfolio**: [yourportfolio.com](http://yourportfolio.com)
-
----
-
-## 🎯 My Goals for 2024
-
-Here’s what I’m working on this year:
-
-- 🌱 Learn **Kubernetes** and **Cloud Computing**
-- 🧑‍💻 Contribute to **Open-Source Projects**
-- 📚 Write more tutorials and blogs about **[Tech/Subject]**
-
----
-
-## 🎉 Thank You for Visiting My Profile!
-
-I appreciate you stopping by! Feel free to explore my repositories, star your favorites, or fork them to make something amazing. Let’s build great things together. 🚀
-
----
-
-*This README was created with love and inspiration from the open-source community. 💡*
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvesh-multani&" alt="uvesh-multani" /></p>
