@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ooveemultani" target="blank"><img src="https://img.shields.io/twitter/follow/ooveemultani?logo=twitter&style=for-the-badge" alt="ooveemultani" /></a> </p>
 
-- 🔭 I’m currently working on **Nagrik**
+- 🔭 I’m currently working on **LokNetra**
 
 - 🌱 I’m currently learning **Devops**
 
